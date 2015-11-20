@@ -1,0 +1,35 @@
+
+
+Started GET "/" for 129.81.218.58 at 2015-11-19 19:57:25 +0000
+Cannot render console from 129.81.218.58! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 1211ms (Views: 1200.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self.css?body=1" for 129.81.218.58 at 2015-11-19 19:57:27 +0000
+Cannot render console from 129.81.218.58! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.css?body=1" for 129.81.218.58 at 2015-11-19 19:57:27 +0000
+Cannot render console from 129.81.218.58! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self.js?body=1" for 129.81.218.58 at 2015-11-19 19:57:27 +0000
+Cannot render console from 129.81.218.58! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self.js?body=1" for 129.81.218.58 at 2015-11-19 19:57:27 +0000
+Cannot render console from 129.81.218.58! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for 129.81.218.58 at 2015-11-19 19:57:27 +0000
+Cannot render console from 129.81.218.58! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for 129.81.218.58 at 2015-11-19 19:57:27 +0000
+Cannot render console from 129.81.218.58! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.js?body=1" for 129.81.218.58 at 2015-11-19 19:57:27 +0000
+Cannot render console from 129.81.218.58! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
