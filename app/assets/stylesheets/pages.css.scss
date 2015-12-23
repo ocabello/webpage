@@ -1,6 +1,24 @@
 // Place all the styles related to the Pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+#logo {
+  color: #FFF;
+  float: left;
+  margin-right: 10px;
+  font-size: 1.7em;
+  letter-spacing: -1px;
+  padding-top: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+#logo:hover {
+  color: #428bca;
+  text-decoration: none;
+}
 
 body {
 		background-image: url("http://www.planwallpaper.com/static/images/colorful-triangles-background_yB0qTG6.jpg");
@@ -8,4 +26,13 @@ body {
     color: #990000;
     
     }
+    
+.containerLarge {
+    padding-left: 0px; 
+    padding-right: 0px; 
+}
+
+.titleWrapper{
+    padding-top: 80px;
+}
     
