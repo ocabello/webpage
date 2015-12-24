@@ -4874,3 +4874,387 @@ Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.
 
 Started GET "/assets/Facebook.png" for 201.217.53.14 at 2015-12-24 19:53:01 +0000
 Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 201.217.53.14 at 2015-12-24 21:53:10 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (25.8ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+Completed 200 OK in 2672ms (Views: 2650.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self.css?body=1" for 201.217.53.14 at 2015-12-24 21:53:14 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.css?body=1" for 201.217.53.14 at 2015-12-24 21:53:15 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:53:15 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:53:15 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:53:16 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:53:16 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:53:16 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/LinkedIn.png" for 201.217.53.14 at 2015-12-24 21:53:16 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Github.png" for 201.217.53.14 at 2015-12-24 21:53:17 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Facebook.png" for 201.217.53.14 at 2015-12-24 21:53:17 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 201.217.53.14 at 2015-12-24 21:56:08 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (11.9ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+Completed 200 OK in 2771ms (Views: 2755.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self.css?body=1" for 201.217.53.14 at 2015-12-24 21:56:12 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.css?body=1" for 201.217.53.14 at 2015-12-24 21:56:12 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:56:13 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:56:13 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:56:14 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:56:14 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:56:14 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/LinkedIn.png" for 201.217.53.14 at 2015-12-24 21:56:14 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Github.png" for 201.217.53.14 at 2015-12-24 21:56:15 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Facebook.png" for 201.217.53.14 at 2015-12-24 21:56:16 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 201.217.53.14 at 2015-12-24 21:58:31 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (3.5ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+Completed 200 OK in 2867ms (Views: 2850.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self.css?body=1" for 201.217.53.14 at 2015-12-24 21:58:35 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.css?body=1" for 201.217.53.14 at 2015-12-24 21:58:35 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:58:36 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:58:36 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:58:36 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:58:36 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.js?body=1" for 201.217.53.14 at 2015-12-24 21:58:36 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/LinkedIn.png" for 201.217.53.14 at 2015-12-24 21:58:37 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Github.png" for 201.217.53.14 at 2015-12-24 21:58:38 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Facebook.png" for 201.217.53.14 at 2015-12-24 21:58:38 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 201.217.53.14 at 2015-12-24 22:00:38 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (5.8ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+Completed 200 OK in 2624ms (Views: 2607.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self.css?body=1" for 201.217.53.14 at 2015-12-24 22:00:42 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.css?body=1" for 201.217.53.14 at 2015-12-24 22:00:42 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:00:43 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:00:43 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:00:43 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:00:43 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:00:43 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/LinkedIn.png" for 201.217.53.14 at 2015-12-24 22:00:43 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Github.png" for 201.217.53.14 at 2015-12-24 22:00:44 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Facebook.png" for 201.217.53.14 at 2015-12-24 22:00:45 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 201.217.53.14 at 2015-12-24 22:04:36 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (5.8ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+Completed 200 OK in 2713ms (Views: 2697.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self.css?body=1" for 201.217.53.14 at 2015-12-24 22:04:41 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.css?body=1" for 201.217.53.14 at 2015-12-24 22:04:42 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:04:42 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:04:42 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:04:42 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:04:42 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:04:42 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/LinkedIn.png" for 201.217.53.14 at 2015-12-24 22:04:43 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Github.png" for 201.217.53.14 at 2015-12-24 22:04:44 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Facebook.png" for 201.217.53.14 at 2015-12-24 22:04:44 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 201.217.53.14 at 2015-12-24 22:06:47 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (29.0ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+Completed 200 OK in 2708ms (Views: 2690.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self.css?body=1" for 201.217.53.14 at 2015-12-24 22:06:53 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.css?body=1" for 201.217.53.14 at 2015-12-24 22:06:54 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:06:54 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:06:54 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:06:55 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:06:55 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:06:55 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/LinkedIn.png" for 201.217.53.14 at 2015-12-24 22:06:55 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Github.png" for 201.217.53.14 at 2015-12-24 22:06:56 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Facebook.png" for 201.217.53.14 at 2015-12-24 22:06:56 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 201.217.53.14 at 2015-12-24 22:08:29 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (5.7ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+Completed 200 OK in 2793ms (Views: 2774.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self.css?body=1" for 201.217.53.14 at 2015-12-24 22:08:33 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.css?body=1" for 201.217.53.14 at 2015-12-24 22:08:34 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:08:35 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:08:35 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:08:35 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:08:35 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:08:35 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/LinkedIn.png" for 201.217.53.14 at 2015-12-24 22:08:36 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Github.png" for 201.217.53.14 at 2015-12-24 22:08:37 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Facebook.png" for 201.217.53.14 at 2015-12-24 22:08:37 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 201.217.53.14 at 2015-12-24 22:10:55 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (4.8ms)
+  Rendered layouts/_header.html.erb (4.3ms)
+Completed 200 OK in 2519ms (Views: 2495.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self.css?body=1" for 201.217.53.14 at 2015-12-24 22:10:58 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.css?body=1" for 201.217.53.14 at 2015-12-24 22:10:59 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:10:59 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:10:59 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:10:59 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:10:59 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self.js?body=1" for 201.217.53.14 at 2015-12-24 22:10:59 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/LinkedIn.png" for 201.217.53.14 at 2015-12-24 22:10:59 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Github.png" for 201.217.53.14 at 2015-12-24 22:11:00 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/Facebook.png" for 201.217.53.14 at 2015-12-24 22:11:00 +0000
+Cannot render console from 201.217.53.14! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255

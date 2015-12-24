@@ -52,18 +52,35 @@ a:hover {
 
 .webBox {
   text-align: center;
+  color: #000;
   //padding-top: 50%;
   //background-color: #6699FF;
-  background-color: #0000B3;
+  background-color: #ff6600;
   background-size: cover;
   padding-top: 0;
   //height: 260px;
 }
 
+.webBox a {
+  color: #000;
+}
+
+.webBox a:hover{
+  color: #FFF;
+}
+
+.mobileBox a {
+  color: #000;
+}
+
+.mobileBox a:hover{
+  color: #FFF;
+}
+
 .mobileBox {
   text-align: center;
   //padding-top: 50%;
-  background-color: #0000B3;
+  background-color: #ff6600;
   padding-top: 0;
   background-size: cover;
   //height: 250px;
@@ -79,6 +96,7 @@ a:hover {
   position: relative;
   padding-top: 12%;
   font-family: Arial, Helvetica, sans-serif;
+  color: #000;
 }
 
 body {
@@ -97,7 +115,7 @@ body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: #000;
-    height: 500px;
+    height: 520px;
 }
 
 .titleWrapper p {
