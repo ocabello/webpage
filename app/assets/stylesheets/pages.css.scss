@@ -13,6 +13,8 @@
   padding-top: 20px;
   text-transform: uppercase;
   font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+
 }
 
 #logo:hover {
@@ -20,11 +22,68 @@
   text-decoration: none;
 }
 
+#link:hover {
+  color: #FFF;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #FFF;
+}
+
+.emptyBox {
+  background-color: #404040;
+  background-size: cover;
+  padding: 0;
+  //height: 250px;
+}
+
+.row {
+  height: 100%;
+  margin-top: 0;
+  //margin: none;
+}
+
+.col-md-6 {
+  margin: none;
+  padding: 0;
+  height: 250px;
+}
+
+.webBox {
+  text-align: center;
+  //padding-top: 50%;
+  //background-color: #6699FF;
+  background-color: #0000B3;
+  background-size: cover;
+  padding-top: 0;
+  //height: 260px;
+}
+
+.mobileBox {
+  text-align: center;
+  //padding-top: 50%;
+  background-color: #0000B3;
+  padding-top: 0;
+  background-size: cover;
+  //height: 250px;
+}
+
+.mobileBox h1 {
+  position: relative;
+  padding-top: 12%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.webBox h1 {
+  position: relative;
+  padding-top: 12%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 body {
-		background-image: url("http://www.planwallpaper.com/static/images/colorful-triangles-background_yB0qTG6.jpg");
-    
-    color: #990000;
-    
+
+
     }
     
 .containerLarge {
@@ -33,6 +92,21 @@ body {
 }
 
 .titleWrapper{
-    padding-top: 80px;
+    background-color: #0099FF;
+    padding-top: 280px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+    height: 500px;
+}
+
+.titleWrapper p {
+  font-size: 20px;
+  color: #404040;
+}
+
+.titleWrapper h1 {
+  font-size: 50px;
+  font-weight: bold;
 }
     
