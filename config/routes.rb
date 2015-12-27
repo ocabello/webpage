@@ -2,6 +2,9 @@ Rails.application.routes.draw do
   # get 'Pages#welcome'
   # get 'welcome' => 'pages#welcome'
  root 'pages#welcome'
+ get '/aboutMe' => 'pages#about'
+ get'/web' => 'pages#web'
+ get '/mobile' => 'pages#web'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

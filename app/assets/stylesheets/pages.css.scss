@@ -31,6 +31,57 @@ a:hover {
   color: #FFF;
 }
 
+.btn-custom {
+  background: rgba(255, 255, 255, 0.02); 
+  border-color: #000; 
+  color: #000; 
+  font-size: 14px; 
+  font-weight: bold;
+  border-radius: 4px; 
+  border-width: 2px;
+  
+}
+
+.btn-custom:hover {
+  background: rgba(255, 255, 255, 0.02); 
+  border-color: #FFF; 
+  color: #FFF;
+  
+}
+
+.btn-custom:active, .btn-custom:focus {
+  background: rgba(235, 235, 235, 1);
+  border-color: rgba(173, 173, 173, 1); 
+  color: rgba(51, 51, 51, 1);
+  
+}
+
+.myWork{
+  height: 100px;
+  background-color: #ff6600;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color: #000;
+  padding-bottom: 10px;
+}
+
+.myWork h1{
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.Karma {
+  height: 300px;
+  background-color: #FFCC00;
+}
+
+.Pixciter {
+  height: 300px;
+  background-color: #2cac21;
+  //background-color: #89A194;
+}
+
 .emptyBox {
   background-color: #404040;
   background-size: cover;
@@ -119,12 +170,22 @@ body {
 }
 
 .titleWrapper p {
-  font-size: 20px;
+  font-size: 25px;
   color: #404040;
 }
 
 .titleWrapper h1 {
-  font-size: 50px;
+  font-size: 2em;
   font-weight: bold;
+}
+
+.page-wrapper{
+  background: #404040; 
+}
+
+.footer{
+  background-color: #000;
+  color: #FFF;
+  height: 100px;
 }
     
